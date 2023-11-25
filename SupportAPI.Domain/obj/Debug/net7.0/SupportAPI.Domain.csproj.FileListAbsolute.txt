@@ -1,0 +1,36 @@
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.deps.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfo.cs
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\refint\SupportAPI.Domain.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\ref\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\refint\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Domain\obj\Debug\net7.0\ref\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\refint\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Domain\obj\Debug\net7.0\ref\SupportAPI.Domain.dll

@@ -1,0 +1,45 @@
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.deps.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.AssemblyReference.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfoInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfo.cs
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CopyComplete
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\refint\SupportAPI.Application.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\ref\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CopyComplete
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\refint\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Application\obj\Debug\net7.0\ref\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.csproj.CopyComplete
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\refint\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Application\obj\Debug\net7.0\ref\SupportAPI.Application.dll

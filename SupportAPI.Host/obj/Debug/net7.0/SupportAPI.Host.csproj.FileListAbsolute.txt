@@ -1,0 +1,117 @@
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.exe
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.deps.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.runtimeconfig.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.AssemblyReference.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfoInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfo.cs
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CoreCompileInputs.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.SupportAPI.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.SupportAPI.Host.props
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupportAPI.Host.props
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupportAPI.Host.props
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\scopedcss\bundle\SupportAPI.Host.styles.css
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CopyComplete
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\refint\SupportAPI.Host.dll
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.genruntimeconfig.cache
+C:\Users\EM.14\source\Projects\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\ref\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.exe
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.runtimeconfig.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.SupportAPI.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\scopedcss\bundle\SupportAPI.Host.styles.css
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CopyComplete
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\refint\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.genruntimeconfig.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI\SupportAPI.Host\obj\Debug\net7.0\ref\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\appsettings.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.exe
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.deps.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.runtimeconfig.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Application.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Domain.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\bin\Debug\net7.0\SupportAPI.Infrastucture.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.AssemblyReference.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfoInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.AssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CoreCompileInputs.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.SupportAPI.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.build.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupportAPI.Host.props
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\scopedcss\bundle\SupportAPI.Host.styles.css
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.csproj.CopyComplete
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\refint\SupportAPI.Host.dll
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.pdb
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\SupportAPI.Host.genruntimeconfig.cache
+C:\Users\msyti\OneDrive\Υπολογιστής\Work\SupportAPI Github Version\SupportAPI.Host\obj\Debug\net7.0\ref\SupportAPI.Host.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBFkY+N7EyJkNDMa4+nxag0TaMrcet92WvVBzkQsEDYV8/IACZTc4Xs3tsPtO0B022eOqIG18/62B1EaPV2dNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msyti\\OneDrive\\Υπολογιστής\\Work\\SupportAPI Github Version\\SupportAPI.Infrastucture\\SupportAPI.Infrastucture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\msyti\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
